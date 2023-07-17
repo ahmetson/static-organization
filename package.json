@@ -1,0 +1,9 @@
+{
+  "name": "static-organization",
+  "version": "1.0.0",
+  "description": "Static Organization is the smartcontract that tracks the smartcontract configurations on IPFS",
+  "main": "index.ts",
+  "repository": "github.com/ahmetson/static-organization",
+  "author": "Medet Ahmetson <medet@ahmetson.com>",
+  "license": "MPL 2.0"
+}
