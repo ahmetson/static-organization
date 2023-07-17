@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MPL 2.0
+// SPDX-License-Identifier: MPL-2.0
 pragma solidity ^0.8.9;
 
 // we can add a new function to return any erc20 or nft
